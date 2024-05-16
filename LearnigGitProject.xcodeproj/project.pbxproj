@@ -16,6 +16,7 @@
 		5C6A83792BF61B0800ACF73C /* LearnigGitProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6A83782BF61B0800ACF73C /* LearnigGitProjectTests.swift */; };
 		5C6A83832BF61B0800ACF73C /* LearnigGitProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6A83822BF61B0800ACF73C /* LearnigGitProjectUITests.swift */; };
 		5C6A83852BF61B0800ACF73C /* LearnigGitProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C6A83842BF61B0800ACF73C /* LearnigGitProjectUITestsLaunchTests.swift */; };
+		5CA95B0F2BF6348C00EFE3EF /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA95B0E2BF6348C00EFE3EF /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5C6A837E2BF61B0800ACF73C /* LearnigGitProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearnigGitProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C6A83822BF61B0800ACF73C /* LearnigGitProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnigGitProjectUITests.swift; sourceTree = "<group>"; };
 		5C6A83842BF61B0800ACF73C /* LearnigGitProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnigGitProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5CA95B0E2BF6348C00EFE3EF /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5C6A836A2BF61B0700ACF73C /* Assets.xcassets */,
 				5C6A836C2BF61B0700ACF73C /* LaunchScreen.storyboard */,
 				5C6A836F2BF61B0700ACF73C /* Info.plist */,
+				5CA95B0E2BF6348C00EFE3EF /* User.swift */,
 			);
 			path = LearnigGitProject;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CA95B0F2BF6348C00EFE3EF /* User.swift in Sources */,
 				5C6A83662BF61B0600ACF73C /* ViewController.swift in Sources */,
 				5C6A83622BF61B0600ACF73C /* AppDelegate.swift in Sources */,
 				5C6A83642BF61B0600ACF73C /* SceneDelegate.swift in Sources */,
