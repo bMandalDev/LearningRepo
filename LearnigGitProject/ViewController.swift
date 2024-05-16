@@ -15,3 +15,10 @@ class ViewController: UIViewController {
 
 
 }
+// MARK: Extensions
+private extension ViewController {
+   
+    func loadView() {
+        print(#function)
+    }
+}
