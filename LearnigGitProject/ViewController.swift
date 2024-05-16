@@ -15,8 +15,3 @@ class ViewController: UIViewController {
 
 
 }
-
-// MARK: Extension
-extension ViewController {
-    
-}
