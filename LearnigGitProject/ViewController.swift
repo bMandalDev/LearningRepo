@@ -17,3 +17,9 @@ class ViewController: UIViewController {
 
 }
 
+// MARK: Extension
+extension ViewController {
+    @IBAction func nextButtonAction(_ sender: UIButton) {
+        print(#function)
+    }
+}
